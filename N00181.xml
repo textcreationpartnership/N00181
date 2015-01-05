@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000240_0000_0FA36E5CC76693B8"/>
-            <pb facs="tcp:000240_0001_0FA36E5DD93199A8"/>
+            <pb facs="unknown:000240_0000_0FA36E5CC76693B8"/>
+            <pb facs="unknown:000240_0001_0FA36E5DD93199A8"/>
             <p>AN ELEGIE UPON The Death of the Reverend Mr. THOMAS SHEPARD, Late Teacher of the Church at Charlstown in New-England:</p>
             <p>By a great Admirer of his Worth, and true Mourner for his Death.</p>
             <q>
@@ -137,7 +137,7 @@
       </front>
       <body>
          <div type="to_the_reader">
-            <pb facs="tcp:000240_0002_0FA36E5E505219C0"/>
+            <pb facs="unknown:000240_0002_0FA36E5E505219C0"/>
             <head>To the Reader.</head>
             <lg n="1">
                <head>(1)</head>
@@ -186,7 +186,7 @@
             </lg>
          </div>
          <div type="elegy">
-            <pb n="3" facs="tcp:000240_0003_0FA36E5F075ADFA0"/>
+            <pb n="3" facs="unknown:000240_0003_0FA36E5F075ADFA0"/>
             <head>AN ELEGIE Upon that Reverend, Learned, Eminently Pious, and Singularly Accomplished Divine, my ever Honoured BROTHER Mr. THOMAS SHEPARD, The late Faithful and Worthy Teacher of the Church of Christ at <hi>Charlstown</hi> in <hi>New-England.</hi> Who finished his Course on Earth, and went to receive his Crown, <date>
                   <hi>December</hi> 22. 1677.</date> In the 43<hi rend="sup">d</hi> Year of his Age.</head>
             <lg n="1">
@@ -209,7 +209,7 @@
                <l>That ever waited on the bravest Hearse.</l>
             </lg>
             <lg n="3">
-               <pb n="4" facs="tcp:000240_0004_0FA36E5FC8E0B098"/>
+               <pb n="4" facs="unknown:000240_0004_0FA36E5FC8E0B098"/>
                <head>[3]</head>
                <l>And <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -249,7 +249,7 @@
                </l>
             </lg>
             <lg n="7">
-               <pb n="5" facs="tcp:000240_0005_0FA36E608A384D70"/>
+               <pb n="5" facs="unknown:000240_0005_0FA36E608A384D70"/>
                <head>]7]</head>
                <l>Exube'rant Fancies useless here I deem,</l>
                <l>Transcendent vertue scorns feign'd Elogies:</l>
@@ -291,7 +291,7 @@
                <l>I would bestow my Tears on <hi>Shepards</hi> Grave.</l>
             </lg>
             <lg n="11">
-               <pb n="6" facs="tcp:000240_0006_0FA36E6148EAEDB0"/>
+               <pb n="6" facs="unknown:000240_0006_0FA36E6148EAEDB0"/>
                <head>(11)</head>
                <l>Not that he needs our Tears: for he hath dropt</l>
                <l>His measure full; not one Tear more shall fall</l>
@@ -339,7 +339,7 @@
                <l>Sadly portending some approaching woe.</l>
             </lg>
             <lg n="15">
-               <pb n="7" facs="tcp:000240_0007_0FA36E62082196B8"/>
+               <pb n="7" facs="unknown:000240_0007_0FA36E62082196B8"/>
                <head>[15]</head>
                <l>We shall not summon bold Astrologers,</l>
                <l>To tell us what the Stars say in the case,</l>
@@ -378,7 +378,7 @@
                <l>Call home their Ministers, and Treaties end.</l>
             </lg>
             <lg n="19">
-               <pb n="8" facs="tcp:000240_0008_0FA36E62C74D2018"/>
+               <pb n="8" facs="unknown:000240_0008_0FA36E62C74D2018"/>
                <head>[19]</head>
                <l>Oh for the Raptures, Transports, Inspirations</l>
                <l>Of <hi>Israel's Singers,</hi> when his <hi>Jon'athan's</hi> Fall</l>
@@ -444,7 +444,7 @@
                   </gap> as could dy.</l>
             </lg>
             <lg n="23">
-               <pb n="9" facs="tcp:000240_0009_0FA36E63874D7DD8"/>
+               <pb n="9" facs="unknown:000240_0009_0FA36E63874D7DD8"/>
                <head>[23]</head>
                <l>If to have solid Judgement, Pregnant Parts,</l>
                <l>A piercing Wit, and comprehensive Brain;</l>
@@ -490,7 +490,7 @@
                <l>But his own personal worth's a better claim.</l>
             </lg>
             <lg n="27">
-               <pb n="10" facs="tcp:000240_0010_0FA36E6448096F20"/>
+               <pb n="10" facs="unknown:000240_0010_0FA36E6448096F20"/>
                <head>[27]</head>
                <l>Great was the Father, once a glorious Light</l>
                <l>Among us, Famous to an high Degree:</l>
@@ -531,7 +531,7 @@
                   </gap> down Blessings with a lib'eral hand.</l>
             </lg>
             <lg n="31">
-               <pb n="11" facs="tcp:000240_0011_0FA36E650C89D6C0"/>
+               <pb n="11" facs="unknown:000240_0011_0FA36E650C89D6C0"/>
                <head>[31]</head>
                <l>Wise He, not wily, was; Grave, not Morose;</l>
                <l>Not stiffe, but steady; Seri'ous, but not Sowre;</l>
@@ -568,7 +568,7 @@
                <l>His Spirit seemed Apostolical.</l>
             </lg>
             <lg n="35">
-               <pb n="12" facs="tcp:000240_0012_0FA36E65C7F696E8"/>
+               <pb n="12" facs="unknown:000240_0012_0FA36E65C7F696E8"/>
                <head>[35]</head>
                <l>Large was his Heart, to spend without regret,</l>
                <l>Rejoycing to do good: not like those <hi>Moles</hi>
@@ -608,7 +608,7 @@
                <l>Say this was <hi>Shepards</hi>: what need I say more?</l>
             </lg>
             <lg n="39">
-               <pb n="13" facs="tcp:000240_0013_0FA36E66875A7240"/>
+               <pb n="13" facs="unknown:000240_0013_0FA36E66875A7240"/>
                <head>[39]</head>
                <l>I say no more, let them that can declare</l>
                <l>His rich and rare endowments, paint this Sun,</l>
@@ -653,7 +653,7 @@
                <l>And this tremendous loss between them share.</l>
             </lg>
             <lg n="43">
-               <pb n="14" facs="tcp:000240_0014_0FA36E679983DC40"/>
+               <pb n="14" facs="unknown:000240_0014_0FA36E679983DC40"/>
                <head>[43]</head>
                <l>Must Learnings Friend (Ah! worth us all) go thus<g ref="char:punc">▪</g>
                </l>
@@ -699,7 +699,7 @@
                   </gap> our Prayers.</l>
             </lg>
             <lg n="47">
-               <pb n="15" facs="tcp:000240_0015_0FA36E681800C680"/>
+               <pb n="15" facs="unknown:000240_0015_0FA36E681800C680"/>
                <head>[47]</head>
                <l>See what our sins have done! what Ruines wrought:</l>
                <l>And how they have pluck'd out our very eyes!</l>
@@ -738,7 +738,7 @@
                <l>Lest it be said, <hi>with him New-England fell</hi>!</l>
             </lg>
             <lg n="51">
-               <pb n="16" facs="tcp:000240_0016_0FA36E68C742DB30"/>
+               <pb n="16" facs="unknown:000240_0016_0FA36E68C742DB30"/>
                <head>[51]</head>
                <l>Farewel, Dear <hi>Shepard!</hi> Thou art gone before,</l>
                <l>Made free of <hi>Heaven,</hi> where thou shalt sing loud <hi>Hymns</hi>
